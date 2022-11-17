@@ -18,6 +18,7 @@ Here are main steps for the variant-calling assignment of the 'BVG-7003' course.
 
 ## Variant calling steps  
 ### sabre.sh  
+> The first step is to demultiplex GBA .fastq data file, which is to separate each individuals according to their specific barcode and generate individual *.fq* files.  
 > The script also redirects all output messages to a *sabre.log* file and and output named *unk.fastq* containing records on which no barcode have been found.  
 > An example of 48 resulting *.fq* files, the *unk.fastq* and the *sabre.log* file are in *out_sabre*.  
 
