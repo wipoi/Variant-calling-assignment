@@ -11,7 +11,7 @@ Here are main steps for the variant-calling assignment of the 'BVG-7003' course.
 >  *GNU Parallel*: https://www.gnu.org/software/parallel/parallel_tutorial.html  
 
 ### Extract files from gzipped archive  
-> Extract files from *GBS_data.tar.gz*, *refgenome.tar.gz*, and *scripts.tar.gz* using:  
+> Extract files from *GBS_data.tar.gz*, *refgenome.tar.gz*, *results.tar.gz* and *scripts.tar.gz* using:  
 > `tar xzvf file.tar.gz`   
 > It is also required to gunzip the GBS data file named *FC20150701_1.fq.gz* which is in *GBS_data* directory using:  
 > `gunzip FC20150701_1.fq.gz`  
