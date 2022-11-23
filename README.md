@@ -1,6 +1,6 @@
 # **Variant-calling-assignment**
 Here are main steps for the variant-calling assignment of the 'BVG-7003' course.  
-**NOTE**: only the first 150 lines have been kept in each data files to allow the uploading on Github.  
+  
 ## Prior required steps
 ### Installing required tools  
 > Seven tools are requiered to perform variant-calling:  
@@ -15,6 +15,7 @@ Here are main steps for the variant-calling assignment of the 'BVG-7003' course.
 > `tar xzvf file_to_extract.tar.gz`   
 > It is also required to gunzip the GBS data file named *FC20150701_1.fq.gz* which is in *GBS_data* directory using:  
 > `gunzip FC20150701_1.fq.gz`  
+> **NOTE**: only the first 150 lines have been kept in each data files of refgenome directory and for *FC20150701_1.fq.gz* file to allow the uploading on Github.  
 
 ## Variant calling steps  
 ### sabre.sh  
