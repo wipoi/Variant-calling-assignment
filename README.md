@@ -1,6 +1,6 @@
 # **Variant-calling-assignment**
 Here are main steps for the variant-calling assignment of the 'BVG-7003' course.  
-
+**NOTE**: only yhe first 150 lines have been kept in each data files to allow the uploading on Github.  
 ## Prior required steps
 ### Installing required tools  
 > Seven tools are requiered to perform variant-calling:  
