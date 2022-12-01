@@ -1,5 +1,5 @@
 # **Variant-calling-assignment**
-Here are main steps for the variant-calling assignment of the *BVG-7003* course.  
+Here are main steps for the variant-calling assignment of the *BVG-7003* course which consists in finding genomic variants from genotyping by sequencing (GBS) data.
   
 ## Prior required steps
 ### Installing required tools  
